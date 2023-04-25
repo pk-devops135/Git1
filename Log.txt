@@ -1,1 +1,2 @@
 this file is created for Log
+git fetch vs git pull
